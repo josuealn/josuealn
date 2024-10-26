@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josuealn
-- 👀 I’m interested in ... creative programing and veganism
-- 🌱 I’m currently learning ... javascript and how to communicate more efficiently
+- 👀 I’m interested in ... creative programing
+- 🌱 I’m currently learning ... javascript, java and how to communicate more efficiently
 - 💞️ I’m looking to collaborate on ... anything, hmu
 - 📫 How to reach me ... josue.canales@icloud.com
 
